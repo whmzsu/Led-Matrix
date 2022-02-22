@@ -19,12 +19,10 @@
 //using namespace ace_button;
 #define MATRIX_TYPE    HORIZONTAL_ZIGZAG_MATRIX
 
-//const char *ssid     = "Toaster";
-//const char *password = "Keinedickenelche";
 const char *ssid     = "FRITZ!Box 7560 VI";
-const char *password = "1972197419721974";
+const char *password = "xxx";
 // Button const int BUTTON_PIN = D0;
-char auth[] = "lfUE6aVmgTsOnICCSN5tWfEuvXraujeb";
+char auth[] = "xxx";
 
 String ntpTimeString;
 unsigned int counter=0;
